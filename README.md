@@ -30,7 +30,7 @@ The goal of this dashboard is to move beyond basic reporting and provide actiona
 ## Key Metrics
 - Total Revenue: 12.5bn IDR  
 - Total Orders: 206K  
-- Average Order Value (AOV): 58.4K  
+- Average Order Value (AOV): 60.58K  
 - Estimated Profit Margin: ~25% (based on industry assumptions)  
 - Revenue Growth: ~40% over 3 years  
 
