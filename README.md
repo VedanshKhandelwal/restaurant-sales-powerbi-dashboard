@@ -80,6 +80,9 @@ Some high-volume items generate relatively low revenue.
 
 ## Dashboard Preview
 
+<img width="1432" height="831" alt="Pg1" src="https://github.com/user-attachments/assets/79c6b71f-b48f-4c35-9111-12c5d3ee9bf7" />
+<img width="1432" height="831" alt="Pg3" src="https://github.com/user-attachments/assets/e1cefeff-88f5-45ee-8640-7ddafecfdbfe" />
+<img width="1432" height="831" alt="Pg2" src="https://github.com/user-attachments/assets/1d4cf436-40a4-44a1-9a98-1658299e421c" />
 
 ---
 
